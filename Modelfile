@@ -1,0 +1,5 @@
+from llama-3.2
+license gpt4all
+template "{{prompt}}"
+system "You are a commercial scriptwriter."
+message "Write a commercial storyboard for a product based on these preferences."
